@@ -21,8 +21,13 @@ Project-related implementation files
 Team-based development workflow using GitHub
 
 Technologies & Tools
+
 VHDL
+
 FPGA Design Concepts
+
 Digital Logic Design
+
 ModelSim / QuestaSim
+
 Git & GitHub
