@@ -1,34 +1,55 @@
-Hardware Engineering Lab Repository
+# Hardware Engineering Lab Repository
 
-This repository contains coursework, laboratory exercises, simulations, and project files developed for the Hardware Engineering course at Hamm-Lippstadt University of Applied Sciences.
+This repository contains coursework, laboratory exercises, simulations, and project files developed for the Hardware Engineering course at HSHL (Hamm-Lippstadt University of Applied Sciences).
 
 The work focuses on digital hardware design, FPGA-based development, VHDL implementation, simulation, verification, and embedded hardware concepts. The repository is structured to support collaborative development, documentation, and version control throughout the course.
-Course Information
 
-Hardware Engineering Lab – SS2026
+---
 
-Instructor: Prof. Dr.-Ing. Ali Hayek
+## Course Information
 
-Repository Overview
+**Hardware Engineering Lab – SS2026**  
+Instructor: Prof. Dr.-Ing. Ali Hayek  
+Team: A7
+
+---
+
+## Repository Overview
 
 The repository includes:
 
-Digital circuit design in VHDL
-Combinational and arithmetic logic implementations
-FPGA-oriented hardware development
-Simulation and verification testbenches
-Hardware design documentation
-Project-related implementation files
-Team-based development workflow using GitHub
+- Digital circuit design in VHDL
+- Combinational and arithmetic logic implementations
+- FPGA-oriented hardware development
+- Simulation and verification testbenches
+- Hardware design documentation
+- Project-related implementation files
+- Team-based development workflow using GitHub
 
-Technologies & Tools
+---
 
-VHDL
+## Technologies & Tools
 
-FPGA Design Concepts
+- VHDL
+- FPGA Design Concepts
+- Digital Logic Design
+- ModelSim / QuestaSim
+- Git & GitHub
 
-Digital Logic Design
+---
 
-ModelSim / QuestaSim
+## Repository Structure
 
-Git & GitHub
+```text
+├── Labs
+│   ├── Source Files
+│   ├── Testbenches
+│   ├── Simulation Files
+│   └── Documentation
+│
+├── Project
+│   ├── Design Files
+│   ├── Implementation
+│   └── Reports
+│
+└── README.md
