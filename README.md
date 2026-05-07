@@ -6,6 +6,7 @@ The work focuses on digital hardware design, FPGA-based development, VHDL implem
 Course Information
 
 Hardware Engineering Lab – SS2026
+
 Instructor: Prof. Dr.-Ing. Ali Hayek
 
 Repository Overview
