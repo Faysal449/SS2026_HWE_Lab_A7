@@ -2,9 +2,6 @@
 
 This repository contains coursework, laboratory exercises, simulations, and project files developed for the Hardware Engineering course at HSHL (Hamm-Lippstadt University of Applied Sciences).
 
-The work focuses on digital hardware design, FPGA-based development, VHDL implementation, simulation, verification, and embedded hardware concepts. The repository is structured to support collaborative development, documentation, and version control throughout the course.
-
----
 
 ## Course Information
 
@@ -35,21 +32,3 @@ The repository includes:
 - Digital Logic Design
 - ModelSim / QuestaSim
 - Git & GitHub
-
----
-
-## Repository Structure
-
-```text
-├── Labs
-│   ├── Source Files
-│   ├── Testbenches
-│   ├── Simulation Files
-│   └── Documentation
-│
-├── Project
-│   ├── Design Files
-│   ├── Implementation
-│   └── Reports
-│
-└── README.md
